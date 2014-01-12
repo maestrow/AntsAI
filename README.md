@@ -13,3 +13,9 @@ AntsAI
 * [2ое место, бот GreenTea](http://brunneng.blogspot.ru/2011/12/google-ai-challenge-2011-ants.html)
 * [53е место](http://www.anthonyvh.com/2013/03/27/ai-challenge-ants/);
 * [AI Challenge: Ants AI Challenge: оживляем «муравьев»](http://habrahabr.ru/post/132776/)
+
+Алгоритмы, теория
+* [Расстояние_городских_кварталов](http://ru.wikipedia.org/wiki/Расстояние_городских_кварталов)
+* Волновой алгоритм
+* Поиск в ширину
+* Минимаксы
